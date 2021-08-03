@@ -1,0 +1,20 @@
+.user-info{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 20px 0px;
+}
+.user-info h3{
+    font-size: 20px;
+    font-weight: bolder;
+}
+.user-details{
+    width: 25%;
+    box-shadow: 2px 2px 11px 2px rgb(0 0 0 / 7%);
+    padding: 20px ;
+}
+.history{
+    width: 70%;
+    box-shadow: 2px 2px 11px 2px rgb(0 0 0 / 7%);
+    padding: 20px;
+}
